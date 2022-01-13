@@ -2,6 +2,8 @@
 
 This project is a straightforward, slow way to generate some histopathology image inputs for your CNN workflows quickly.
 
+[Live Demo](https://slideblur.onrender.com)
+
 # This Project was Boostrapped with Create React App
 
 [Create React App](https://github.com/facebook/create-react-app).
